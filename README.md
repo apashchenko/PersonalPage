@@ -1,2 +1,2 @@
 # PersonalPage
-Personal page. 
+Personal page created with Reveal.js. 
